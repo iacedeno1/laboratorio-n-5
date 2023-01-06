@@ -18,13 +18,17 @@ Viernes 23 de diciembre del 2022
 
 #### Objetivo general
 
+Demostrar experimentalmente el teorema de Thévenin para resolver un circuito.
 
-#### Objetivos específicos 
+### OBJETIVOS ESPECÍFICOS:
 
+Aplicar la teoria de Thévenin para conseguir un circuito mas sencillo de resolver.
 
+Comparar los calculos con los resultados practicos y determinar cual es el error entre los datos ontenidos en la practica y los valores calculados
 
 #### Marco teórico
 
+![image](https://user-images.githubusercontent.com/116814386/211033971-d0eb50fd-febc-47e4-8e83-d837dbcbcf21.png)
 
 
 #### MATERIAL Y EQUIPO REQUERIDO
@@ -80,7 +84,16 @@ Ahora procedemos a registras estos datos en un atabla y hallamos el error
 
 Conclusiones
 
+-El teorem de Thévenin nos permite obtener un circuito equivalente , se puede calcular en menos tiempo el valor de voltajes, la corriente o hasta la potencia de un circuito una vez que se conecta una carga lo cual facilita la resolucion del circuito
+
+-Es aplicable a cualquier elemento del circuito, siempre que este cuente con una fuente independiente
+
+-Se comprueba que podemos obtener voltaje y corriente aplicando los métodos en análisis de circuitos eléctricos que cuentan con varias conexiones sin importar cuales las conexiones solo teniendo una resitencia independiente con el Teorema de Thévenin.
+
 Video 
+
+https://youtu.be/_N2lROYp_T0
 
 Bibliografia
 
+https://es.wikipedia.org/wiki/Teorema_de_Thévenin
