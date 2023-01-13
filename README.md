@@ -97,3 +97,4 @@ https://youtu.be/_N2lROYp_T0
 Bibliografia
 
 https://es.wikipedia.org/wiki/Teorema_de_Thévenin
+hola
